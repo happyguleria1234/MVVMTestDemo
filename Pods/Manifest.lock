@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.4)
+  - TableViewReloadAnimation (0.0.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - TableViewReloadAnimation
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - TableViewReloadAnimation
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  TableViewReloadAnimation: f3a4c4048efbc56331be98075f26a2e533a14c16
+
+PODFILE CHECKSUM: 2ae3bd9bc37e6b1a1a4ce7259beaf14dc6f4197f
+
+COCOAPODS: 1.10.2
